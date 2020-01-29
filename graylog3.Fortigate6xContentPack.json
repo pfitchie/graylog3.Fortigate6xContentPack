@@ -5221,7 +5221,7 @@
             "configuration": {
               "query": {
                 "@type": "string",
-                "@value": "gl2_source_input:5e2b57bdade1e603ca40e1ba  devname:BRSD_FGVM subtype:webfilter"
+                "@value": "gl2_source_input:5e2b57bdade1e603ca40e1ba subtype:webfilter"
               },
               "show_pie_chart": {
                 "@type": "boolean",
@@ -5323,7 +5323,7 @@
               },
               "query": {
                 "@type": "string",
-                "@value": "gl2_source_input:5e2b57bdade1e603ca40e1ba  devname:BRSD_FGVM "
+                "@value": "gl2_source_input:5e2b57bdade1e603ca40e1ba "
               },
               "valuetype": {
                 "@type": "string",
@@ -5401,7 +5401,7 @@
             "configuration": {
               "query": {
                 "@type": "string",
-                "@value": "gl2_source_input:5e2b57bdade1e603ca40e1ba AND source:\\\"BRSD_FGVM\\\" AND subtype:\\\"webfilter\\\" AND eventtype:\\\"ftgd_blk\\\""
+                "@value": "gl2_source_input:5e2b57bdade1e603ca40e1ba AND subtype:\\\"webfilter\\\" AND eventtype:\\\"ftgd_blk\\\""
               },
               "show_pie_chart": {
                 "@type": "boolean",
@@ -5585,7 +5585,7 @@
             "configuration": {
               "query": {
                 "@type": "string",
-                "@value": "gl2_source_input:5e2b57bdade1e603ca40e1ba  devname:BRSD_FGVM type:traffic subtype:forward"
+                "@value": "gl2_source_input:5e2b57bdade1e603ca40e1ba type:traffic subtype:forward"
               },
               "show_pie_chart": {
                 "@type": "boolean",
@@ -5781,7 +5781,7 @@
               },
               "query": {
                 "@type": "string",
-                "@value": "gl2_source_input:5e2b57bdade1e603ca40e1ba  devname:BRSD_FGVM "
+                "@value": "gl2_source_input:5e2b57bdade1e603ca40e1ba "
               },
               "valuetype": {
                 "@type": "string",
@@ -5859,7 +5859,7 @@
             "configuration": {
               "query": {
                 "@type": "string",
-                "@value": "gl2_source_input:5e2b57bdade1e603ca40e1ba devname:BRSD_FGVM type:traffic subtype:forward"
+                "@value": "gl2_source_input:5e2b57bdade1e603ca40e1ba type:traffic subtype:forward"
               },
               "show_pie_chart": {
                 "@type": "boolean",
